@@ -3,6 +3,10 @@ Electrocardiogram (ECG) datasets tend to be highly imbalanced due to the scarcit
 
 https://arxiv.org/abs/2112.03268
 
+
+https://drive.google.com/file/d/10SqeJbCjPdtRxpl3Jjx_SXEE0mzT-H0h/view?usp=sharing
+
+
 @article{adib2021synthetic,
 title={Synthetic ECG Signal Generation Using Generative Neural Networks},  
 author={Adib, Edmond and Afghah, Fatemeh and Prevost, John J},  
